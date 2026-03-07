@@ -1,0 +1,32 @@
+<resources>
+    <!-- اللون الأساسي للتطبيق -->
+    <color name="colorPrimary">#FF9800</color> <!-- برتقالي فاتح -->
+
+    <!-- اللون الأساسي الغامق -->
+    <color name="colorPrimaryDark">#F57C00</color> <!-- برتقالي غامق -->
+
+    <!-- اللون الثانوي (Accent) -->
+    <color name="colorAccent">#FF5722</color> <!-- برتقالي مائل للأحمر -->
+
+    <!-- ألوان إضافية -->
+    <color name="gray">#808080</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="background_light">#FFFFFF</color>
+    <color name="text_dark">#000000</color>
+    <color name="blue_icons">#2196F3</color>
+    <color name="toolbar_background">#FF9800</color> <!-- برتقالي بدل الأزرق -->
+    <color name="dark_blue">#0D47A1</color>
+
+    <!-- الألوان الجديدة -->
+    <color name="dark_teal">#540863</color>
+    <color name="dark_red">#DE1A58</color>
+    <color name="dark_yellow">#FFD41D</color>
+    <color name="dark_purple">#360185</color>
+    <color name="dark_grayblue">#758A93</color>
+    <color name="dark_skyblue">#799EFF</color>
+    <color name="default_circle">#0C7779</color>
+
+
+
+</resources>

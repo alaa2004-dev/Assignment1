@@ -1,0 +1,20 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- حالة لما يكون البحث مفعّل -->
+    <item android:state_focused="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF"/>
+            <corners android:radius="12dp"/>
+            <stroke android:width="1dp" android:color="#BFC6C4"/>
+        </shape>
+    </item>
+
+    <!-- الحالة العادية -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF"/>
+            <corners android:radius="12dp"/>
+            <stroke android:width="1dp" android:color="#BFC6C4"/>
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!-- اللون الأساسي -->
+    <solid android:color="@color/colorPrimary"/>
+
+    <!-- ظل خفيف أو حدود -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/colorAccent"/> <!-- استبدل purple_700 بلون موجود -->
+
+    <!-- حجم داخلي -->
+    <size
+        android:width="56dp"
+        android:height="56dp"/>
+</shape>
